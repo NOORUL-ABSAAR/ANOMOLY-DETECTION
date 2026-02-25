@@ -321,5 +321,3 @@ This project successfully developed a data-driven anomaly detection system for r
 * Extend to FCC / Hydrotreater / compressor systems
 
 ---
-
-If you want, I can now generate the **full 5–8 page report content** (Introduction → Literature → Methodology → Results → Conclusion) in proper academic format.
